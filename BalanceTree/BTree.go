@@ -234,12 +234,7 @@ func (tree *BTree) Del(w int) error {
 			} else {
 				tmp = cur.rchild
 			}
-			BfTmp := tmp.BF()
-			if BfTmp >= 0 {
-				tree.balance(tmp.rchild)
-			} else {
-				tree.balance(tmp.lchild)
-			}
+			tree.balance(tmp)
 			break
 		}
 		cur = cur.parent

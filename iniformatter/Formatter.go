@@ -23,7 +23,7 @@ func(e Err)Error()string {
 }
 
 
-
+// 检测是否为标识符
 func check(str string)bool {
 	ok, err := regexp.MatchString(`[_a-zA-Z][_a-zA-Z0-9]{0,30}`, str)
 	if err != nil || !ok {

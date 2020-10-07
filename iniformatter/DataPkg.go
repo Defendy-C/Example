@@ -59,6 +59,7 @@ func newValue(data interface{}) reflect.Value {
 	return vp.Elem()
 }
 
+// sample 只是一个结构体类型样例，并不包括具体的值，用于构建结构体映射Value类型
 func (dp *DataPkg) GetAttrValByStruct(sample interface{})(v reflect.Value, err error) {
 	err = nil
 	typ := reflect.TypeOf(sample)

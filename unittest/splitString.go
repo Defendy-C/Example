@@ -2,16 +2,21 @@ package unittest
 
 import "strings"
 
-func SplitString(src string, delim string)[]string {
-	strs := make([]string, 0)
+// make一个切片 alloc 1次
+// 切片赋值给 strs alloc 1次
+// 创建返回值切片 alloc 1次
+func SplitString(src string, delim string) []string {
+	strs := make([]string, strings.Count(src, delim)+1)
 	delimLen := len(delim)
 	index := strings.Index(src, delim)
+	i := 0
 	for index >= 0 {
-		strs = append(strs, src[:index])
-		src = src[index+delimLen :]
+		strs[i] = src[:index]
+		i++
+		src = src[index+delimLen:]
 		index = strings.Index(src, delim)
 	}
-	strs = append(strs, src)
+	strs[i] = src
 
 	return strs
 }

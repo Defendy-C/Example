@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="99c83e76-56e9-48a9-a53a-be2a6c7f33fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="C:/Go/Go15.2" />
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1je5uAsl6ecCvSrPMbxoLcJ2Vyz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/api/tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Defendy-C\Documents\goworkplace\src\MediaWeb" />
+      <recent name="C:\Users\Defendy-C\Documents\goworkplace\src\MediaWeb\api" />
+      <recent name="C:\Users\Defendy-C\Documents\goworkplace\src\MediaWeb\controller" />
+      <recent name="C:\Users\Defendy-C\Documents\goworkplace\src\MediaWeb\api\defs" />
+      <recent name="C:\Users\Defendy-C\Documents\goworkplace\src\MediaWeb\api\tools\initformatter" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Defendy-C\Documents\goworkplace\src\MediaWeb\api\tools" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build MediaWeb">
+    <configuration name="go build MediaWeb" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="MediaWeb" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="MediaWeb" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestCommentAll in MediaWeb/api/dbopts (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="MediaWeb" />
+      <working_directory value="$PROJECT_DIR$/api/dbopts" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="MediaWeb/api/dbopts" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestCommentAll$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestJwtGenerated in MediaWeb/jwt (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="MediaWeb" />
+      <working_directory value="$PROJECT_DIR$/jwt" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="MediaWeb/jwt" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestJwtGenerated$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUserApi in MediaWeb/api/redisopts (1)" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="MediaWeb" />
+      <working_directory value="$PROJECT_DIR$/api/redisopts" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="MediaWeb/api/redisopts" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestUserApi$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TestUserApi in MediaWeb/api/redisopts" type="GoTestRunConfiguration" factoryName="Go Test" temporary="true" nameIsGenerated="true">
+      <module name="MediaWeb" />
+      <working_directory value="$PROJECT_DIR$/api/redisopts" />
+      <framework value="gotest" />
+      <kind value="PACKAGE" />
+      <package value="MediaWeb/api/redisopts" />
+      <directory value="$PROJECT_DIR$/" />
+      <filePath value="$PROJECT_DIR$/" />
+      <pattern value="^TestUserApi$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build MediaWeb" />
+        <item itemvalue="Go Test.TestJwtGenerated in MediaWeb/jwt (1)" />
+        <item itemvalue="Go Test.TestUserApi in MediaWeb/api/redisopts (1)" />
+        <item itemvalue="Go Test.TestUserApi in MediaWeb/api/redisopts" />
+        <item itemvalue="Go Test.TestCommentAll in MediaWeb/api/dbopts (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+    <proxy>https://goproxy.io</proxy>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="517" y="241" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604466942171">
+      <screen x="69" y="0" width="1467" height="864" />
+    </state>
+    <state x="517" y="241" key="#com.intellij.fileTypes.FileTypeChooser/69.0.1467.864@69.0.1467.864" timestamp="1604466942171" />
+    <state width="1425" height="277" key="GridCell.Tab.0.bottom" timestamp="1604485574825">
+      <screen x="69" y="0" width="1467" height="864" />
+    </state>
+    <state width="1425" height="277" key="GridCell.Tab.0.bottom/69.0.1467.864@69.0.1467.864" timestamp="1604485574825" />
+    <state width="1425" height="277" key="GridCell.Tab.0.center" timestamp="1604485574825">
+      <screen x="69" y="0" width="1467" height="864" />
+    </state>
+    <state width="1425" height="277" key="GridCell.Tab.0.center/69.0.1467.864@69.0.1467.864" timestamp="1604485574825" />
+    <state width="1425" height="277" key="GridCell.Tab.0.left" timestamp="1604485574825">
+      <screen x="69" y="0" width="1467" height="864" />
+    </state>
+    <state width="1425" height="277" key="GridCell.Tab.0.left/69.0.1467.864@69.0.1467.864" timestamp="1604485574825" />
+    <state width="1425" height="277" key="GridCell.Tab.0.right" timestamp="1604485574825">
+      <screen x="69" y="0" width="1467" height="864" />
+    </state>
+    <state width="1425" height="277" key="GridCell.Tab.0.right/69.0.1467.864@69.0.1467.864" timestamp="1604485574825" />
+    <state width="1425" height="277" key="GridCell.Tab.1.bottom" timestamp="1604485574826">
+      <screen x="69" y="0" width="1467" height="864" />
+    </state>
+    <state width="1425" height="277" key="GridCell.Tab.1.bottom/69.0.1467.864@69.0.1467.864" timestamp="1604485574826" />
+    <state width="1425" height="277" key="GridCell.Tab.1.center" timestamp="1604485574825">
+      <screen x="69" y="0" width="1467" height="864" />
+    </state>
+    <state width="1425" height="277" key="GridCell.Tab.1.center/69.0.1467.864@69.0.1467.864" timestamp="1604485574825" />
+    <state width="1425" height="277" key="GridCell.Tab.1.left" timestamp="1604485574825">
+      <screen x="69" y="0" width="1467" height="864" />
+    </state>
+    <state width="1425" height="277" key="GridCell.Tab.1.left/69.0.1467.864@69.0.1467.864" timestamp="1604485574825" />
+    <state width="1425" height="277" key="GridCell.Tab.1.right" timestamp="1604485574826">
+      <screen x="69" y="0" width="1467" height="864" />
+    </state>
+    <state width="1425" height="277" key="GridCell.Tab.1.right/69.0.1467.864@69.0.1467.864" timestamp="1604485574826" />
+    <state x="466" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1604478323221">
+      <screen x="69" y="0" width="1467" height="864" />
+    </state>
+    <state x="466" y="181" width="672" height="678" key="search.everywhere.popup/69.0.1467.864@69.0.1467.864" timestamp="1604478323221" />
+    <state x="526" y="350" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1604467385626">
+      <screen x="69" y="0" width="1467" height="864" />
+    </state>
+    <state x="526" y="350" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/69.0.1467.864@69.0.1467.864" timestamp="1604467385626" />
+  </component>
+</project>
